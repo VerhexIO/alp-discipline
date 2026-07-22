@@ -1,0 +1,37 @@
+name: Translation divergence
+description: A semantic difference between the English canon and the Turkish source
+title: "[translation]: "
+labels: ["translation"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Turkish carries authorial intent; English is the publication canon. Any semantic
+        divergence between the two is a defect, not a fork. See the language rule in
+        GOVERNANCE.md.
+  - type: input
+    id: files
+    attributes:
+      label: File pair
+      description: For example "DISCIPLINE.md and translations/tr/DISCIPLINE.md".
+    validations:
+      required: true
+  - type: textarea
+    id: english
+    attributes:
+      label: English passage
+    validations:
+      required: true
+  - type: textarea
+    id: turkish
+    attributes:
+      label: Turkish passage
+    validations:
+      required: true
+  - type: textarea
+    id: divergence
+    attributes:
+      label: The semantic difference
+      description: What one text says that the other does not.
+    validations:
+      required: true

@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you reference the Alp Discipline, please cite it as below."
+title: "Alp Discipline"
+version: 1.0.1
+date-released: "2026-07-22"
+authors:
+  - family-names: "Sartacoglu"
+    given-names: "Alperen"
+repository-code: "https://github.com/VerhexIO/alp-discipline"
+license: MIT
+abstract: "A decision discipline for the moment a human or an AI agent meets a boundary. Four principles, five questions, four floors."
