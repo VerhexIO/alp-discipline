@@ -1,0 +1,2 @@
+# deckent workspace state — project-internal memory; must never ship with the discipline
+.deckent/
