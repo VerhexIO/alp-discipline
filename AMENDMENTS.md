@@ -68,10 +68,17 @@ Added AMENDMENTS.md (this file), GOVERNANCE.md, CONTRIBUTING.md, issue templates
 evidence and translation divergence, CITATION.cff, repository metadata, and a visible
 version line in ESSENCE.md so that an agent can report which surface version it runs.
 
+## v1.0.2 (2026-07-22): universality cleanup (packaging, owner ordered)
+
+All references to specific tools, products, and organizations were removed from the text.
+The discipline must be adaptable to any environment, so the repository names no
+implementation; implementations live in separate repositories. The pending measurement note
+below was likewise made generic. No doctrinal content changed.
+
 ## Pending, awaiting usage evidence
 
 - An ESSENCE floor for the case where the goal is undeclared and the owner is unreachable:
-  does the agent continue or come to a safe stop? To be measured in deckent sprint audits.
+  does the agent continue or come to a safe stop? To be measured in real agent usage.
 - A Principle 3 antipattern for suppressing a legitimate stand by inflating Principle 2's
   burden of proof ("you have not exhausted the alternatives yet, so do not escalate").
 - An APPLYING entry with a discriminator between the slice and design altitudes (proposed

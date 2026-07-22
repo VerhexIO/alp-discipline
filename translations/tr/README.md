@@ -54,13 +54,13 @@ sıkıştırılmış yüzey tut, çünkü paralel varyantlar birbirinden uzakla�
 ## Uygulamalar (implementations)
 
 Disiplin tek ve basit kalır; uygulamaları sınırsız olabilir. Entegrasyonlar, ajan prompt
-şablonları, şemalar ve kurumsal benimseme modelleri *Alp Discipline implementations* adlı
-ayrı bir izleğe aittir, bu repoya değil. İlk kapsamlı uygulama örneği olan deckent
-orkestrasyon runtime'ı ayrı bir vaka çalışması olarak yaşar.
+şablonları, şemalar ve kurumsal benimseme modelleri ayrı repolara aittir, bu repoya değil.
+Bu repo hiçbir aracı, ürünü veya organizasyonu adlandırmaz, çünkü disiplin her ortama
+uyarlanabilir kalmalıdır.
 
 ## Durum
 
-**v1.0.1.** Çekirdek 2026-07-18'de donduruldu; kullanım kanıtına dayanan ilk değişiklik
+**v1.0.2.** Çekirdek 2026-07-18'de donduruldu; kullanım kanıtına dayanan ilk değişiklik
 2026-07-22'de onaylandı. Metin yalnız kullanım kanıtıyla yeniden açılır; bu, disiplinin kendi
 İlke 2'sinin kendine uygulanmasıdır. Metne yapılan her değişiklik
 [AMENDMENTS.md](../../AMENDMENTS.md) dosyasına kaydedilir; değişiklik prosedürü

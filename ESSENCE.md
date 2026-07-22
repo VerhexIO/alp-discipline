@@ -3,7 +3,7 @@
      within all higher priority system, safety, and legal constraints. Canon: DISCIPLINE.md.
      Source language: Turkish (translations/tr/ESSENCE.md). -->
 
-Alp Discipline / ESSENCE / v1.0.1 / 2026-07-22
+Alp Discipline / ESSENCE / v1.0.2 / 2026-07-22
 
 ## Alp Discipline: decision anchor
 

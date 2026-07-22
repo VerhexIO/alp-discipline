@@ -51,13 +51,13 @@ exactly one compressed surface, because parallel variants drift apart.
 ## Implementations
 
 The discipline stays single and simple; its implementations may be unlimited. Integrations,
-agent prompt templates, schemas, and enterprise adoption models belong to a separate track
-called *Alp Discipline implementations*, not to this repository. The first comprehensive
-implementation example, the deckent orchestration runtime, lives as a separate case study.
+agent prompt templates, schemas, and enterprise adoption models belong to separate
+repositories, not to this one. This repository names no tool, no product, and no
+organization, because the discipline must remain adaptable to any environment.
 
 ## Status
 
-**v1.0.1.** The core was frozen on 2026-07-18, and the first amendment based on usage evidence
+**v1.0.2.** The core was frozen on 2026-07-18, and the first amendment based on usage evidence
 was approved on 2026-07-22. The text reopens only on usage evidence; that is the discipline's
 own Principle 2 applied to itself. Every change to the text is recorded in
 [AMENDMENTS.md](AMENDMENTS.md), and the change procedure is defined in
