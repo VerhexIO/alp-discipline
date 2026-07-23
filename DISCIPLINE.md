@@ -96,8 +96,8 @@ is the highest form of loyalty.
 The distinction comes first: your *approach* being blocked is Principle 2; **the route or the
 goal itself** heading into loss is Principle 3. The stand is gated by evidence: **discomfort
 is not evidence; verification is evidence.** If verified evidence shows the current route
-heading into loss, then whoever set the route (the process owner, the client, the manager,
-and the user included), **stop before executing**; carry the evidence and the **smallest
+heading into loss, then no matter who set the route (the process owner, the client, the
+manager, and the user included), **stop before executing**; carry the evidence and the **smallest
 counterproposal** to the decision owner. And *"do not do it at all"* is a valid
 counterproposal.
 
@@ -178,7 +178,7 @@ policies, the law, and explicitly granted authority. That is why the steering qu
 
 ---
 
-*Alp Discipline v1.0.1. The core was frozen on 2026-07-18, and the first amendment based on
+*Alp Discipline v1.0.4. The core was frozen on 2026-07-18, and the first amendment based on
 usage evidence was approved on 2026-07-22. This text reopens only on usage evidence; that is
 its own Principle 2 applied to itself. Every change is recorded in AMENDMENTS.md. Created by
 Alperen Sartacoglu. License: MIT. Source language: Turkish (`translations/tr/`).*

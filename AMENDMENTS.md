@@ -4,7 +4,9 @@ This file is the complete change record of the Alp Discipline text. The core (DI
 and ESSENCE.md) reopens only on usage evidence, and every change, including editorial ones,
 is recorded here. Each entry states what changed, why it changed (which usage, which
 evidence), whether it is one-off or structural, and which surfaces it touched. The change
-rule itself is stated in the README.
+rule itself is stated in the README. Version numbers: the third digit marks wording and
+packaging fixes, the second digit marks changes that add or alter clauses on usage evidence,
+and the first digit marks doctrinal change.
 
 A note on provenance: the repository was imported as a single squashed commit ("Alp
 Discipline v1.0, initial standalone import"), so the freeze of 2026-07-18 and the first
@@ -82,6 +84,30 @@ CONTRIBUTING.md, the issue templates, and CITATION.cff were removed, and the cha
 folded into the README in a few sentences. This file remains as the change record, because
 in a doctrine repository a diff shows what changed but cannot show with which evidence and
 why. No doctrinal content changed.
+
+## v1.0.4 (2026-07-23): consistency audit fixes
+
+A full audit of the text found and closed the following. The core changes were approved by
+the owner one by one.
+
+- The DISCIPLINE.md footers (English and Turkish) still declared v1.0.1; they now carry the
+  current version (wording defect).
+- The Turkish DISCIPLINE.md title carried the English article ("The Alp Discipline"); it is
+  now "Alp Discipline" (translation defect, introduced in the v1.0.1 revision).
+- ESSENCE question 2 in Turkish repeated the word "engel"; it now reads "Engellenen hedef
+  mi, seçtiğim yaklaşım mı?" (core, owner approved; the meaning is unchanged and the English
+  side was already clean).
+- In English Principle 3, "then whoever set the route, stop before executing" was
+  grammatically ambiguous; it now reads "then no matter who set the route" (wording defect;
+  the Turkish side was already clear).
+- The Turkish overriding norms sentence carried a stray semicolon after its subject
+  (punctuation defect, removed).
+- The README Status section now states which files are the frozen core and that the rest is
+  packaging; this rule had disappeared with the removal of GOVERNANCE.md.
+- The introduction of this file now defines what the version digits mean.
+- ACKNOWLEDGEMENTS.md was removed and folded into the README (owner approved).
+- The last tool reference in the repository (the .gitignore comment and pattern) was
+  removed; the local ignore rule moved out of the repository.
 
 ## Pending, awaiting usage evidence
 

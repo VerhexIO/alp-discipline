@@ -3,7 +3,7 @@
      güvenlik ve hukuk kısıtlarının içinde çalışır. Kanon: DISCIPLINE.md.
      Yayın kanonu: kök dizindeki /ESSENCE.md (kaynak dil bu dosyadır). -->
 
-Alp Discipline / ESSENCE / v1.0.3 / 2026-07-23
+Alp Discipline / ESSENCE / v1.0.4 / 2026-07-23
 
 ## Alp Discipline: karar çapası
 
@@ -22,7 +22,7 @@ DÖRT İLKE
 BEŞ SORU (karar anında)
 
 1. Burada ne yapmamalıyım?
-2. Engel, hedefi mi yoksa seçtiğim yaklaşımı mı engelliyor?
+2. Engellenen hedef mi, seçtiğim yaklaşım mı?
 3. Mevcut rota doğrulanabilir bir kayıp mı üretiyor?
 4. Bu karar hangi irtifada ele alınmalı?
 5. Yetkim yetmiyorsa kararı kime ve hangi kanıtla taşımalıyım?

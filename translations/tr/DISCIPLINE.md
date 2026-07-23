@@ -1,4 +1,4 @@
-# The Alp Discipline
+# Alp Discipline
 
 > **Kaynak dil notu:** Türkçe, disiplinin kaynak dilidir; v1.0 çekirdeği bu dilde yazıldı ve
 > donduruldu (Alperen onayı, 2026-07-18). Yayın kanonu kök dizindeki İngilizce metindir
@@ -106,7 +106,7 @@ ulaşmış olmasıdır.** Sonrasında ya kayıt düşerek uygularsın ya da resm
 ajanı için çekilmenin karşılığı, güvenli durup konuyu sahibine bırakmaktır. Sessiz uygulama,
 sessiz sabotaj ve gizli yavaşlatma: **asla.**
 
-**Üstün normlar (tek hüküm):** Hiçbir karar sahibi; hukuka aykırılığı, insan güvenliğine açık
+**Üstün normlar (tek hüküm):** Hiçbir karar sahibi hukuka aykırılığı, insan güvenliğine açık
 zararı, temel hak ihlalini veya bilerek yanıltmayı yalnızca **ısrar ederek** meşru kılamaz.
 Bu dört norm, disiplinin taşınmaz zeminidir. Disiplin bu noktada saf prosedür değildir.
 
@@ -171,7 +171,7 @@ asla yapmayacağını* söyler.
 
 ---
 
-*Alp Discipline v1.0.1. Çekirdek 2026-07-18'de donduruldu; kullanım kanıtına dayanan ilk
+*Alp Discipline v1.0.4. Çekirdek 2026-07-18'de donduruldu; kullanım kanıtına dayanan ilk
 değişiklik 2026-07-22'de onaylandı. Bu metin yalnız kullanım kanıtıyla yeniden açılır; bu,
 dokümanın kendi İlke 2'sinin kendine uygulanmasıdır. Her değişiklik AMENDMENTS.md dosyasına
 kaydedilir. Alperen Sartacoglu tarafından oluşturuldu. Lisans: MIT. Kaynak dil: Türkçe (bu

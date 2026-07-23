@@ -57,11 +57,12 @@ organization, because the discipline must remain adaptable to any environment.
 
 ## Status
 
-**v1.0.3.** The core was frozen on 2026-07-18. The text reopens only on evidence from real
+**v1.0.4.** The core, meaning DISCIPLINE.md and ESSENCE.md, was frozen on 2026-07-18; the
+remaining files are packaging and change freely. The core reopens only on evidence from real
 usage, meaning a concrete situation in which the text gave no answer, gave a wrong answer,
 or was systematically misread; that is the discipline's own Principle 2 applied to itself.
-Every change is recorded in [AMENDMENTS.md](AMENDMENTS.md). If you have such evidence, open
-an issue.
+Every change, core or packaging, is recorded in [AMENDMENTS.md](AMENDMENTS.md). If you have
+such evidence, open an issue.
 
 ## Translations
 
@@ -71,6 +72,5 @@ Any divergence between the two is a defect, not a fork; please open an issue.
 
 ## License and attribution
 
-[MIT](LICENSE). Created by Alperen Sartacoglu; see
-[ACKNOWLEDGEMENTS.md](ACKNOWLEDGEMENTS.md). Embedding ESSENCE.md in a machine-consumed prompt
-requires no attribution display.
+[MIT](LICENSE). Created by Alperen Sartacoglu. Embedding ESSENCE.md in a machine-consumed
+prompt requires no attribution display.

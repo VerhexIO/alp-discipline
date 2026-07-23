@@ -60,14 +60,15 @@ uyarlanabilir kalmalıdır.
 
 ## Durum
 
-**v1.0.3.** Çekirdek 2026-07-18'de donduruldu. Metin yalnız gerçek kullanımdan gelen
-kanıtla yeniden açılır; bu kanıt, metnin cevap vermediği, yanlış cevap verdiği veya
-sistematik olarak yanlış okunduğu somut bir durumdur ve bu kural, disiplinin kendi İlke
-2'sinin kendine uygulanmasıdır. Her değişiklik [AMENDMENTS.md](../../AMENDMENTS.md)
-dosyasına kaydedilir. Böyle bir kanıtınız varsa issue açın.
+**v1.0.4.** Çekirdek, yani DISCIPLINE.md ile ESSENCE.md, 2026-07-18'de donduruldu; kalan
+dosyalar ambalajdır ve serbest değişir. Çekirdek yalnız gerçek kullanımdan gelen kanıtla
+yeniden açılır; bu kanıt, metnin cevap vermediği, yanlış cevap verdiği veya sistematik
+olarak yanlış okunduğu somut bir durumdur ve bu kural, disiplinin kendi İlke 2'sinin kendine
+uygulanmasıdır. Çekirdek olsun ambalaj olsun her değişiklik
+[AMENDMENTS.md](../../AMENDMENTS.md) dosyasına kaydedilir. Böyle bir kanıtınız varsa issue
+açın.
 
 ## Lisans ve atıf
 
-[MIT](../../LICENSE). Alperen Sartacoglu tarafından oluşturuldu; bkz.
-[ACKNOWLEDGEMENTS.md](../../ACKNOWLEDGEMENTS.md). ESSENCE.md'yi makine tarafından tüketilen
-bir prompt'a gömerken atıf gösterimi aranmaz.
+[MIT](../../LICENSE). Alperen Sartacoglu tarafından oluşturuldu. ESSENCE.md'yi makine
+tarafından tüketilen bir prompt'a gömerken atıf gösterimi aranmaz.
