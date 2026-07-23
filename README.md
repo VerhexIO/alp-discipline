@@ -57,18 +57,17 @@ organization, because the discipline must remain adaptable to any environment.
 
 ## Status
 
-**v1.0.2.** The core was frozen on 2026-07-18, and the first amendment based on usage evidence
-was approved on 2026-07-22. The text reopens only on usage evidence; that is the discipline's
-own Principle 2 applied to itself. Every change to the text is recorded in
-[AMENDMENTS.md](AMENDMENTS.md), and the change procedure is defined in
-[GOVERNANCE.md](GOVERNANCE.md).
+**v1.0.3.** The core was frozen on 2026-07-18. The text reopens only on evidence from real
+usage, meaning a concrete situation in which the text gave no answer, gave a wrong answer,
+or was systematically misread; that is the discipline's own Principle 2 applied to itself.
+Every change is recorded in [AMENDMENTS.md](AMENDMENTS.md). If you have such evidence, open
+an issue.
 
 ## Translations
 
 Turkish, the source language in which v1.0 was authored and frozen, lives in
 [`translations/tr/`](translations/tr/). The root English text is canonical for publication.
-Any divergence between the two is a defect, not a fork; please open an issue using the
-translation divergence template.
+Any divergence between the two is a defect, not a fork; please open an issue.
 
 ## License and attribution
 

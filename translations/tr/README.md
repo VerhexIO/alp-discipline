@@ -60,11 +60,11 @@ uyarlanabilir kalmalıdır.
 
 ## Durum
 
-**v1.0.2.** Çekirdek 2026-07-18'de donduruldu; kullanım kanıtına dayanan ilk değişiklik
-2026-07-22'de onaylandı. Metin yalnız kullanım kanıtıyla yeniden açılır; bu, disiplinin kendi
-İlke 2'sinin kendine uygulanmasıdır. Metne yapılan her değişiklik
-[AMENDMENTS.md](../../AMENDMENTS.md) dosyasına kaydedilir; değişiklik prosedürü
-[GOVERNANCE.md](../../GOVERNANCE.md) dosyasında tanımlıdır.
+**v1.0.3.** Çekirdek 2026-07-18'de donduruldu. Metin yalnız gerçek kullanımdan gelen
+kanıtla yeniden açılır; bu kanıt, metnin cevap vermediği, yanlış cevap verdiği veya
+sistematik olarak yanlış okunduğu somut bir durumdur ve bu kural, disiplinin kendi İlke
+2'sinin kendine uygulanmasıdır. Her değişiklik [AMENDMENTS.md](../../AMENDMENTS.md)
+dosyasına kaydedilir. Böyle bir kanıtınız varsa issue açın.
 
 ## Lisans ve atıf
 

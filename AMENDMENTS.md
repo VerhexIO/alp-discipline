@@ -4,7 +4,7 @@ This file is the complete change record of the Alp Discipline text. The core (DI
 and ESSENCE.md) reopens only on usage evidence, and every change, including editorial ones,
 is recorded here. Each entry states what changed, why it changed (which usage, which
 evidence), whether it is one-off or structural, and which surfaces it touched. The change
-procedure itself is defined in [GOVERNANCE.md](GOVERNANCE.md).
+rule itself is stated in the README.
 
 A note on provenance: the repository was imported as a single squashed commit ("Alp
 Discipline v1.0, initial standalone import"), so the freeze of 2026-07-18 and the first
@@ -74,6 +74,14 @@ All references to specific tools, products, and organizations were removed from 
 The discipline must be adaptable to any environment, so the repository names no
 implementation; implementations live in separate repositories. The pending measurement note
 below was likewise made generic. No doctrinal content changed.
+
+## v1.0.3 (2026-07-23): read and apply simplification (packaging, owner ordered)
+
+The repository's target posture is "this is a text: read it and apply it". GOVERNANCE.md,
+CONTRIBUTING.md, the issue templates, and CITATION.cff were removed, and the change rule was
+folded into the README in a few sentences. This file remains as the change record, because
+in a doctrine repository a diff shows what changed but cannot show with which evidence and
+why. No doctrinal content changed.
 
 ## Pending, awaiting usage evidence
 

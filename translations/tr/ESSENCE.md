@@ -3,7 +3,7 @@
      güvenlik ve hukuk kısıtlarının içinde çalışır. Kanon: DISCIPLINE.md.
      Yayın kanonu: kök dizindeki /ESSENCE.md (kaynak dil bu dosyadır). -->
 
-Alp Discipline / ESSENCE / v1.0.2 / 2026-07-22
+Alp Discipline / ESSENCE / v1.0.3 / 2026-07-23
 
 ## Alp Discipline: karar çapası
 
